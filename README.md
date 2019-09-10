@@ -1,1 +1,1 @@
-# SmotherProject
+# Библиотека MySQL
